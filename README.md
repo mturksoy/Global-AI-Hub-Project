@@ -1,6 +1,6 @@
 # Global-AI-Hub-Project
 
-Tas Kagit Makas Oyunu - Muhammet Turksoy
+Tas Kagit Makas Oyunu - Muhammet Ihsan Turksoy
 
 Bu proje, Python dilinde geliştirilen basit bir "Taş, Kağıt, Makas" oyunudur. Kullanıcı, bilgisayara karşı oynayarak oyunun galibi olmayı hedefler. Oyun, klasik "Taş, Kağıt, Makas" kuralları üzerine kurulmuştur ve birkaç turdan oluşur. Proje, Python programlama dilinin temellerini öğrenmek ve uygulamak amacıyla geliştirilmiştir.
 
